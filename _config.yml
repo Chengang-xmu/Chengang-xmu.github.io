@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "About me"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Ph.D. from the School of Aerospace Engineering at Xiamen University, China"
 repository               : "Chengang-xmu/Chengang-xmu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chen Gang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/IMG_5191.jpg"
   bio              : "Xiamen University"
   location         : "Xiamen, China"
   employer         :
